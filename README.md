@@ -1,5 +1,5 @@
 # Projeto Scrapy
 
-## Webscraping usando a biblioteca Scrapy no Python 
+## Web scraping usando a biblioteca Scrapy no Python 
 
 
